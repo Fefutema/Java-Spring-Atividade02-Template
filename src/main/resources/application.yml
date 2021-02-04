@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:h2:file:~/atividades
-    username: sa
-    password: 
-    driver-class-name: org.h2.Driver
